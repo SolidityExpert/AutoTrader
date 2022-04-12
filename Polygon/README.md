@@ -1,7 +1,20 @@
 # Polygon AutoTrader
 
-How to use:
+If you dont know how to deploy a smart contract you can find out how you do that from the link below:
+https://www.geeksforgeeks.org/steps-to-execute-solidity-smart-contract-using-remix-ide/
 
-First of all you will need to deploy the contract, this is very easy to do if you dont know how then follow the instuctions below:
-step 1. Download the polygon AutoTrader file from github.
-step2. Go to https://remix.ethereum.org/
+
+How to use AutoTrader on https://remix.ethereum.org/ (Will work the same anywhere else):
+
+Step 1. Find out the contracts address, you can do this by calling the contractAddress function built into the contract or using polygonscan.
+
+Step 2. Send the amount of Matic you want to be used in your AutoTrader contract. (I use 200$-500$ but not everyone has that so choose your own amount).
+
+step 3. Call the "start" function to start the process. If you are using more than 100 matic call the "additionalStart" function instead for better results.
+
+step 4. To get your funds call the withdraw function and you are ready to go again.
+
+
+If you run into any problems you can contact me on twitter: @NftUncover or by email: NftUncover@outlook.com.
+
+

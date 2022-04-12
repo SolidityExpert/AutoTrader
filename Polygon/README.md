@@ -3,9 +3,9 @@
 
 <strong>How to use AutoTrader on <a href="https://remix.ethereum.org/">remix ide</a> (Will work the same anywhere else):</strong> <br>
 
-Step 1. Find out the contracts address, you can do this by calling the contractAddress function built into the contract or using polygonscan. <br>
+Step 1. Find out the contracts address, you can do this by calling the contractAddress function built into the contract. then Copy it for step 2. <br>
 
-Step 2. Send the amount of Matic you want to be used in your AutoTrader contract. (I use 200$-500$ but not everyone has that so choose your own amount). <br>
+Step 2. Send the amount of Matic you want to be used to your AutoTrader contract address, this will store matic on your contract. <br>
 
 step 3. Call the "start" function to start the process. If you are using more than 100 matic call the "additionalStart" function instead for better results. <br>
 

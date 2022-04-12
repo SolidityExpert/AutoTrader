@@ -1,4 +1,6 @@
 # Polygon AutoTrader
+<strong>Deploy the AutoTrade.sol contract to the polgon network, you can find out how to do this<a href="https://www.quicknode.com/guides/solidity/how-to-deploy-a-smart-contract-on-matic-polygon">here</a> 
+
 <strong>How to use AutoTrader on <a href="https://remix.ethereum.org/">remix ide</a> (Will work the same anywhere else):</strong> <br>
 
 Step 1. Find out the contracts address, you can do this by calling the contractAddress function built into the contract or using polygonscan. <br>

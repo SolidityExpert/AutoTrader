@@ -1,6 +1,6 @@
 # Polygon AutoTrader
 
-If you dont know how to deploy a smart contract you can find out how you do that from the link below: <br>
+<strong>If you dont know how to deploy a smart contract you can find out how you do that from the link below:</strong> <br>
 https://www.geeksforgeeks.org/steps-to-execute-solidity-smart-contract-using-remix-ide/
 <br>
 <br>

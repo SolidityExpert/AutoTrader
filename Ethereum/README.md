@@ -1,5 +1,5 @@
 # Ethereum AutoTrader
-<strong>Deploy the AutoTrade.sol contract to the ethereum network, you can find out how to do this <a href="https://www.quicknode.com/guides/solidity/how-to-deploy-a-smart-contract-on-matic-polygon">here</a></strong> 
+<strong>Deploy the AutoTrade.sol contract to the Etherium mainnet, if you dont know how to do this you can find out how on google or youtube.</strong> 
 
 <strong>How to use AutoTrader on <a href="https://remix.ethereum.org/">remix ide</a> (Will work the same anywhere else):</strong> <br>
 
@@ -7,7 +7,7 @@ Step 1. Find out the contracts address, you can do this by calling the contractA
 
 Step 2. Send the amount of Eth you want to use to your AutoTrader contract address, this will store Eth in your contract. <br>
 
-step 3. Call the "start" function to start the process. If you are 0.1 eth or more call the "additionalStart" function instead for better results. <br>
+step 3. Call the "start" function to start the process. If you are using 0.1 eth or more call the "additionalStart" function instead for better results. <br>
 
 step 4. To get your funds call the withdraw function and you are ready to go again. <br>
 

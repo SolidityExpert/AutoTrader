@@ -1,3 +1,1 @@
 # AutoTrader
-
-Instructions:

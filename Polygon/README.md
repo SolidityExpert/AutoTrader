@@ -2,8 +2,8 @@
 
 If you dont know how to deploy a smart contract you can find out how you do that from the link below: <br>
 https://www.geeksforgeeks.org/steps-to-execute-solidity-smart-contract-using-remix-ide/
-
-
+<br>
+<br>
 How to use AutoTrader on https://remix.ethereum.org/ (Will work the same anywhere else): <br>
 
 Step 1. Find out the contracts address, you can do this by calling the contractAddress function built into the contract or using polygonscan. <br>

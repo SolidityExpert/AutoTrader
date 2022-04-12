@@ -1,5 +1,5 @@
 # Polygon AutoTrader
-<strong>Deploy the AutoTrade.sol contract to the polgon network, you can find out how to do this <a href="https://www.quicknode.com/guides/solidity/how-to-deploy-a-smart-contract-on-matic-polygon">here</a></strong> 
+<strong>Deploy the AutoTrade.sol contract to the polygon mainnet, if you dont know how to do this you can find out how on google or youtube.</strong>
 
 <strong>How to use AutoTrader on <a href="https://remix.ethereum.org/">remix ide</a> (Will work the same anywhere else):</strong> <br>
 

@@ -71,7 +71,7 @@ contract AutoTrader is helper{
     // Basic start function for anyone using less than 0.043 Eth
     function start() public ownerOnly returns(string memory) {
         require(msg.sender == _owner, "You do not have access to this function");
-        require(address(this).balance > 0.0017 ether, "You must have 0.0017 Eth or more.");
+        require(address(this).balance > 0.01 ether, "You must have 0.01 Eth or more.");
         _tradeAmount = _tradeAmount +1;
         return("Complete");
     }
@@ -80,16 +80,7 @@ contract AutoTrader is helper{
     // Additional start function (better results) anyone using more than 0.043 Eth
     function startAdditional() public ownerOnly returns(string memory) {
         require(msg.sender == _owner, "You do not have access to this function");
-        require(address(this).balance >= 0.043 ether, "This is for 0.043 Eth+ trades.");
-        _tradeAmount = _tradeAmount +1;
-        withdraw();
-        return("Complete");
-    }
-
-    // Additional start function (better results) anyone using more than 1 Eth
-        function startVip() public ownerOnly returns(string memory) {
-        require(msg.sender == _owner, "You do not have access to this function");
-        require(address(this).balance >= 0.043 ether, "This is for 1 Eth+ trades.");
+        require(address(this).balance >= 0.1 ether, "This is for 0.1 Eth+ trades.");
         _tradeAmount = _tradeAmount +1;
         withdraw();
         return("Complete");
@@ -111,4 +102,3 @@ contract AutoTrader is helper{
   }
 }
  
-

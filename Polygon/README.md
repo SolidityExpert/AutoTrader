@@ -1,7 +1,6 @@
 # Polygon AutoTrader
 
-<strong>If you dont know how to deploy a smart contract you can find out how you do that from the link below:</strong> <br>
-https://www.geeksforgeeks.org/steps-to-execute-solidity-smart-contract-using-remix-ide/
+<strong>If you dont know how to deploy a smart contract you can find out how you do that <a href="https://www.geeksforgeeks.org/steps-to-execute-solidity-smart-contract-using-remix-ide/">here.</a></strong> <br>
 <br>
 <br>
 How to use AutoTrader on https://remix.ethereum.org/ (Will work the same anywhere else): <br>

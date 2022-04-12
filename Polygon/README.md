@@ -1,3 +1,3 @@
-#Polygon
+#polygon
 
 Instructions
